@@ -1,4 +1,12 @@
-### Hi there 👋
+### Beginner frontend developer
+
+#### Languages and tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-0b3a5c?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-0b3a5c?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-0b3a5c?style=for-the-badge&logo=css3)
+![Vue](https://img.shields.io/badge/-Vue-0b3a5c?style=for-the-badge&logo=vuedotjs)
+
+
 
 <!--
 **Daria-Petrova/Daria-Petrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
